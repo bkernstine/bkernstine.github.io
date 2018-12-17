@@ -1,0 +1,13 @@
+header{
+  background-image: url('./images/marian-kroell-1223442-unsplash.jpg');
+  height: 100vh;
+  background-size: cover;
+
+  color: #ccc;
+
+}
+
+.circle {
+  max-height: 100px;
+  max-width: 100px;
+}
